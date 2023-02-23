@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.figure{
+    padding: 18px 15px;
+    text-align: center;
+    background-color: greenyellow;
+}
+.figcaption{
+    background-color: #b2b2b2;
+}
+.head{
+    width: 320px;
+    text-align: center;
+    background-color: #f6d971;
+}
+.article{
+    width: 320px;
+    text-align: center;
+    background-color: #8cc3ff;
+}
+.footer{
+    width: 320px;
+    padding-bottom: 3px;
+    text-align: center;
+    background-color: #f6d971;
+}
